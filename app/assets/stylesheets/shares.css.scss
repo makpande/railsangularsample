@@ -1,0 +1,25 @@
+// Place all the styles related to the shares controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+.article-listing {
+  h2 {
+    font-size: 14px;
+  }
+  p {
+    font-size: 12px;
+    overflow: hidden;
+  }
+  h4 a {
+    display: inline;
+  }
+  .middle {
+    margin-top: 15px;
+  }
+  border: 1px solid #f2f2f2;
+  min-height:50px;
+  overflow: auto;
+  margin: 10px 0;
+  
+}
